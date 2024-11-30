@@ -24,17 +24,11 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
-		href: '/projects',
-		icon: <Icon className="mr-3" icon="feather:copy" />,
-		text: 'Projects',
-	},
-	{
-		type: NavigationItemType.LINK,
 		external: true,
 		href: 'https://github.com/nurodev',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
-	},
+	}
 ];
 
 export default function HomePage(): JSX.Element {
