@@ -18,5 +18,15 @@
 		"icon": "heroicons-outline:status-online",
 		"name": "Herta - WhatsApp Bot",
 		"url": "https://betteruptime.com/?ref=7p8z"
+		},
+		{
+		"aliases": ["uptime", "status"],
+		"code": "7p8z",
+		"color": "#0E153A",
+		"description": "Coming Soon",
+		"homepage": "https://betteruptime.com",
+		"icon": "heroicons-outline:status-online",
+		"name": "Pico - WhatsApp Bot",
+		"url": "https://betteruptime.com/?ref=7p8z"
 		}
 ]
