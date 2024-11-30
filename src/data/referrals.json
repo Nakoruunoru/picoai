@@ -6,7 +6,17 @@
 		"description": "Get notified with a radically better infrastructure monitoring platform",
 		"homepage": "https://betteruptime.com",
 		"icon": "heroicons-outline:status-online",
-		"name": "Better Uptime",
+		"name": "buy pterodactyl server ",
 		"url": "https://betteruptime.com/?ref=7p8z"
-	}
+	},
+		{
+		"aliases": ["uptime", "status"],
+		"code": "7p8z",
+		"color": "#0E153A",
+		"description": "Get notified with a radically better infrastructure monitoring platform",
+		"homepage": "https://betteruptime.com",
+		"icon": "heroicons-outline:status-online",
+		"name": "Herta - WhatsApp Bot",
+		"url": "https://betteruptime.com/?ref=7p8z"
+		}
 ]
