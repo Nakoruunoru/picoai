@@ -28,6 +28,13 @@ const ACTIONS: Array<NavigationItem> = [
 		href: 'https://github.com/nurodev',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
+	},
+	{
+		type: NavigationItemType.LINK,
+		external: true,
+		href: 'https://github.com/nurodev',
+		icon: <Icon className="mr-3" icon="feather:whatsapp" />,
+		text: 'WhatsApp',
 	}
 ];
 
